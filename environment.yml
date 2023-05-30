@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - matplotlib
+  - cmocean
+  - seaborn
+  - scipy
+  - jupyterlab
+  - ca-certificates
+  - certifi
+  - openssl
