@@ -1,4 +1,6 @@
 ## Corn yield analysis
+#### Data source
+Data is downloaded from https://quickstats.nass.usda.gov.  
 
 #### Instructions
 1. Make sure mamba (or conda) is installed (https://mamba.readthedocs.io/en/latest/installation.html).  
